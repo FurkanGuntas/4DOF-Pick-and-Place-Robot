@@ -24,10 +24,6 @@ To validate the mathematical models and test control strategies before hardware 
 
 ![Simulink Model](Images/simulink_model.png)
 
-*   **Trajectory Planning:** To ensure smooth, jerk-free movement, I developed a trajectory planner using 5th-order polynomial equations. This approach guarantees continuous position, velocity, and acceleration profiles as the arm moves between waypoints.
-
-![Trajectory Graphs](Images/trajectory_graphs.png)
-
 ## Hardware & Prototyping
 To bring the theoretical models to life, I constructed a functional physical prototype.
 
