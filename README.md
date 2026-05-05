@@ -1,5 +1,8 @@
 # 4-DOF RRRR Robotic Arm Design, Simulation, and Implementation
 
+![Robot in Action](Images/robot_action.gif)
+
+
 ## Project Overview
 This repository contains the complete design, mathematical modeling, control simulation, and physical implementation of a custom 4-Degree-of-Freedom (DOF) robotic arm. I designed this manipulator specifically with an RRRR configuration to execute industrial pick-and-place tasks. This project is my theoretical and practical experience, starting with the derivation of kinematic and dynamic equations, progressing to MATLAB/Simulink simulations, and culminating in the construction of a physical prototype using 3D-printed PLA parts and an ESP32 microcontroller.
 
